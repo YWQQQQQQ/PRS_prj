@@ -1,0 +1,11 @@
+numpy
+keras
+tensorflow-gpu
+scipy
+scikit-learn
+opencv-python
+h5py
+matplotlib
+Pillow
+threading
+
