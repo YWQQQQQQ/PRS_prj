@@ -1,4 +1,4 @@
-Wear A Mask : Rule Breaker Detection
+#Wear A Mask : Rule Breaker Detection
 
 In this report, a Wear-A-Mask rule breaker detector is proposed. 
 With the technique of face detection and mask detection, it can recognize who doesn’t wear a mask at a high accuracy.
