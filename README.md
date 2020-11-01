@@ -6,4 +6,4 @@ With the technique of face reidentification, it can compare the face feature of 
 With the technique of image enhancement like denoising, illumination improvement and super resolution. 
 This system can be applied to more extreme scenario such as dark environment, equipped with low end camera, etc.
 
-![](https://github.com/YWQQQQQQ/PRS_prj/blob/main/Images/abc.png)
+![](https://github.com/YWQQQQQQ/PRS_prj/blob/main/Images/Prj.png)
