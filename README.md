@@ -10,8 +10,8 @@ In order to simplify the process we plan to build a wear a mask : rule breaker d
 ![](https://github.com/YWQQQQQQ/PRS_prj/blob/main/Images/Prj.png)
 
 ### Project Report 
-![](https://github.com/YWQQQQQQ/PRS_prj/blob/main/Project%20Report/PRS_Project%20Report.pdf)
+[Report](https://github.com/YWQQQQQQ/PRS_prj/blob/main/Project%20Report/PRS_Project%20Report.pdf0
 ### User Guide 
-![](/UserGuide.pdf)
+[Guide](https://github.com/YWQQQQQQ/PRS_prj/blob/main/UserGuide.pdf)
 ### Project Video 
 https://youtu.be/jT8dTeMML_Q
