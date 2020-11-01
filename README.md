@@ -1,4 +1,4 @@
-#### Wear A Mask : Rule Breaker Detection
+## Wear A Mask : Rule Breaker Detection
 
 The World Health Organization (WHO) reports suggest that one of the primary course of transmission of the COVID-19 infection is through respiratory droplets.
 Respiratory droplets are generated when an infected person coughs or sneezes and any person in close range with the person is at a risk of being infected and that is the primary reason we have been advised to wear a mask by the World Health Organization. 
