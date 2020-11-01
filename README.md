@@ -12,6 +12,6 @@ In order to simplify the process we plan to build a wear a mask : rule breaker d
 ### Project Report 
 ![](https://github.com/YWQQQQQQ/PRS_prj/blob/main/Project%20Report/PRS_Project%20Report.pdf)
 ### User Guide 
-![](UserGuide.pdf)
+![](/UserGuide.pdf)
 ### Project Video 
 https://youtu.be/jT8dTeMML_Q
